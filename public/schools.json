@@ -39,5 +39,13 @@
     "host": "jiaowu.gzpyp.edu.cn",
     "domain": "jiaowu.gzpyp.edu.cn/jsxsd",
     "needVerify": true
+  },
+  "xsyu_1": {
+    "type": "shuwei",
+    "code": "xsyu_1",
+    "name": "西安石油大学",
+    "host": "jwxt.xsyu.edu.cn",
+    "domain": "jwxt.xsyu.edu.cn/eams",
+    "needVerify": true
   }
 }
